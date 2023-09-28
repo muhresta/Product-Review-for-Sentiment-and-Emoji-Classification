@@ -1,6 +1,6 @@
 ### Hi, I'm Muhammad Riesta Pratama
 
-I'm a Applied Math/ML/AI Enthusiast.
+I'm a Applied Math/ML/AI Enthusiast, you can seek my portofolio here:
 <!--
 **muhresta/muhresta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
