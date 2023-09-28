@@ -1,6 +1,6 @@
 ### Hi, I'm Muhammad Riesta Pratama
 
-I'm a Applied Math/ML/AI Enthusiast, you can find my portofolio here.
+Independent project for building my portofolio. This dataset taken from Kaggle (https://www.kaggle.com/datasets/jocelyndumlao/prdect-id-indonesian-emotion-classification).
 <!--
 **muhresta/muhresta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
