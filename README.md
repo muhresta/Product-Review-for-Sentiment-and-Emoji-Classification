@@ -1,4 +1,4 @@
-### Hi, I'm Muhammad Riesta Pratama
+### Natural Language Processing Independent Project.
 
 PRDECT-ID Dataset is a collection of Indonesian product review data annotated with emotion and sentiment labels. The data were collected from one of the giant e-commerce in Indonesia named Tokopedia.
 
